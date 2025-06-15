@@ -1,0 +1,13 @@
+Port,Status,Scan_Type,Service/Product
+20,CLOSED,Socket,-
+21,CLOSED,Socket,-
+22,CLOSED,Socket,-
+23,CLOSED,Socket,-
+24,CLOSED,Socket,-
+25,CLOSED,Socket,-
+20,CLOSED,Nmap,ftp-data
+21,CLOSED,Nmap,ftp
+22,CLOSED,Nmap,ssh
+23,CLOSED,Nmap,telnet
+24,CLOSED,Nmap,priv-mail
+25,CLOSED,Nmap,smtp

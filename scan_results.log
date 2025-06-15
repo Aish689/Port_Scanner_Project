@@ -1,0 +1,31 @@
+2025-06-15 09:01:29,405 - Port 20 is CLOSED
+2025-06-15 09:01:29,405 - Port 21 is CLOSED
+2025-06-15 09:01:29,406 - Port 22 is CLOSED
+2025-06-15 09:01:29,406 - Port 23 is CLOSED
+2025-06-15 09:01:29,406 - Port 24 is CLOSED
+2025-06-15 09:01:29,406 - Port 25 is CLOSED
+2025-06-15 09:10:26,351 - Port 20 is CLOSED (via socket)
+2025-06-15 09:10:26,352 - Port 21 is CLOSED (via socket)
+2025-06-15 09:10:26,352 - Port 22 is CLOSED (via socket)
+2025-06-15 09:10:26,352 - Port 23 is CLOSED (via socket)
+2025-06-15 09:10:26,352 - Port 24 is CLOSED (via socket)
+2025-06-15 09:10:26,353 - Port 25 is CLOSED (via socket)
+2025-06-15 09:10:26,416 - Starting Nmap Scan on 127.0.0.1 for ports 20-25...
+2025-06-15 09:10:27,159 - [Nmap] Port: 20 Service: ftp-data Product:  
+2025-06-15 09:10:27,159 - [Nmap] Port: 21 Service: ftp Product:  
+2025-06-15 09:10:27,160 - [Nmap] Port: 22 Service: ssh Product:  
+2025-06-15 09:10:27,160 - [Nmap] Port: 23 Service: telnet Product:  
+2025-06-15 09:10:27,160 - [Nmap] Port: 24 Service: priv-mail Product:  
+2025-06-15 09:10:27,160 - [Nmap] Port: 25 Service: smtp Product:  
+2025-06-15 09:13:55,059 - [-] Port 20 is CLOSED (via socket)
+2025-06-15 09:13:55,059 - [-] Port 21 is CLOSED (via socket)
+2025-06-15 09:13:55,060 - [-] Port 22 is CLOSED (via socket)
+2025-06-15 09:13:55,060 - [-] Port 23 is CLOSED (via socket)
+2025-06-15 09:13:55,061 - [-] Port 24 is CLOSED (via socket)
+2025-06-15 09:13:55,061 - [-] Port 25 is CLOSED (via socket)
+2025-06-15 09:13:55,694 - [Nmap] Port: 20 Service: ftp-data Product: 
+2025-06-15 09:13:55,694 - [Nmap] Port: 21 Service: ftp Product: 
+2025-06-15 09:13:55,694 - [Nmap] Port: 22 Service: ssh Product: 
+2025-06-15 09:13:55,695 - [Nmap] Port: 23 Service: telnet Product: 
+2025-06-15 09:13:55,695 - [Nmap] Port: 24 Service: priv-mail Product: 
+2025-06-15 09:13:55,695 - [Nmap] Port: 25 Service: smtp Product: 
